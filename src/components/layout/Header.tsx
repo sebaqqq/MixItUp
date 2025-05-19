@@ -42,7 +42,7 @@ const Header: React.FC = () => {
               ))}
 
               <a
-                href="https://github.com/your-username/mixitup"
+                href="https://github.com/sebaqqq/MixItUp.git"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center px-3 py-2 rounded-xl text-sm text-gray-600 hover:text-mint-600 hover:bg-gray-50 transition-colors"
